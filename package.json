@@ -1,0 +1,9 @@
+{
+  "name": "skills-getting-started-with-github-copilot",
+  "version": "1.0.0",
+  "description": "High School Management System",
+  "dependencies": {
+    "fast-xml-parser": "^5.5.8",
+    "flatted": "^3.4.2"
+  }
+}
